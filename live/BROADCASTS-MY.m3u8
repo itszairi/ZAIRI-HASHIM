@@ -12,7 +12,7 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM TV6" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" tvg-url="" group-title="Classic;Retro",RTM TV6
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Parlimen (Dewan Negara)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" tvg-url="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanNegara.jpg" group-title="News",RTM Parlimen (Dewan Negara)
+#EXTINF:-1 tvg-id="" tvg-name="RTM Parlimen (Dewan Negara)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanNegara.jpg" tvg-url="" group-title="News",RTM Parlimen (Dewan Negara)
 https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanRakyat.jpg" tvg-url="" group-title="News",RTM Parlimen (Dewan Rakyat)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
