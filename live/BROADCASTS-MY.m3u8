@@ -46,9 +46,9 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #EXTINF:-1 tvg-id="" tvg-name="Mix" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" radio="true" group-title="Radio",Mix
 http://astro1.rastream.com/mix?type=.flv
 #EXTINF:-1 tvg-id="" tvg-name="Lite" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" radio="true" group-title="Radio",Lite
-http://astro1.rastream.com/lite?type=.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lite (CLOSED)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" radio="true" group-title="Radio",Lite (CLOSED)
 http://astro1.rastream.com/lite.web.hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Lite (CLOSED)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" radio="true" group-title="Radio",Lite (CLOSED)
+http://astro1.rastream.com/lite?type=.flv
 #EXTINF:-1 tvg-id="" tvg-name="Era" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" radio="true" group-title="Radio",Era
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 #EXTINF:-1 tvg-id="" tvg-name="Sinar" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" radio="true" group-title="Radio",Sinar
