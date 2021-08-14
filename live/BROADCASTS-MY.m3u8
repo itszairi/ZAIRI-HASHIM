@@ -1,14 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="KLASIKfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg" radio="true" group-title="Radio",KLASIKfm
-https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASIONALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradionasionlfm.jpg" radio="true" group-title="Radio",NASIONALfm
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRAXXfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.jpg" radio="true" group-title="Radio",TRAXXfm
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MINNALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.jpg" radio="true" group-title="Radio",MINNALfm
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Hitz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" radio="true" group-title="Radio",Hitz
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #EXTINF:-1 tvg-id="" tvg-name="Mix" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" radio="true" group-title="Radio",Mix
@@ -17,23 +10,47 @@ http://astro1.rastream.com/mix?type=.flv
 http://astro1.rastream.com/lite.web.hls/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Lite (CLOSED)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" radio="true" group-title="Radio",Lite (CLOSED)
 http://astro1.rastream.com/lite?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="SYOK Classic Rock" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" radio="true" group-title="Radio",SYOK Classic Rock
+http://astro1.rastream.com/rock?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="SYOK Gold" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" radio="true" group-title="Radio",SYOK Gold
+http://astro1.rastream.com/gold?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="SYOK Opus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" radio="true" group-title="Radio",SYOK Opus
+http://astro1.rastream.com/opus?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="SYOK Jazz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" radio="true" group-title="Radio",SYOK Jazz
+http://astro1.rastream.com/jazz?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="Fly FM" tvg-logo="https://assets.flyfm.audio/2021/07/mrirNzvo-logo_flyfm_master.svg" radio="true" group-title="Radio",Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm.android
+
+#EXTINF:-1 tvg-id="" tvg-name="KLASIKfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg" radio="true" group-title="Radio",KLASIKfm
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASIONALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradionasionlfm.jpg" radio="true" group-title="Radio",NASIONALfm
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Era" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" radio="true" group-title="Radio",Era
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 #EXTINF:-1 tvg-id="" tvg-name="Sinar" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" radio="true" group-title="Radio",Sinar
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 #EXTINF:-1 tvg-id="" tvg-name="THR Gegar" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" radio="true" group-title="Radio",THR Gegar
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
-#EXTINF:-1 tvg-id="" tvg-name="Hot FM" tvg-logo="https://assets.radioactive.sg/org-mediaprima/02fcfa87-65c7-470f-921c-1dcad382bd41-Hotfm-382.png" radio="true" group-title="Radio",Hot FM
+#EXTINF:-1 tvg-id="" tvg-name="Hot FM" tvg-logo="https://assets.hotfm.audio/2021/07/7ksjlZxl-logo_hotfm_master.svg" radio="true" group-title="Radio",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF:-1 tvg-id="" tvg-name="Kool FM" tvg-logo="https://assets.radioactive.sg/org-mediaprima/3a197c0d-d7d0-4e54-b977-2bf8ef58ba9c-logo_koolfm_382x136.png" radio="true" group-title="Radio",Kool FM
+#EXTINF:-1 tvg-id="" tvg-name="Buletin FM" tvg-logo="https://assets.buletinfm.audio/2021/07/SIU9guQ5-logo_buletinfm_master.svg" radio="true" group-title="Radio",Buletin FM
 http://mediaprima.rastream.com/mediaprima-koolfm.android
-#EXTINF:-1 tvg-id="" tvg-name="Fly FM" tvg-logo="https://assets.radioactive.sg/org-mediaprima/9baf2322-0050-4c20-ae94-d8a2cfcf3eb0-Flyfm-382.png" radio="true" group-title="Radio",Fly FM
-http://mediaprima.rastream.com/mediaprima-flyfm.android
-#EXTINF:-1 tvg-id="" tvg-name="One FM" tvg-logo="https://assets.onefm.com.my/2020/01/logo_onefm_1080x618.png" radio="true" group-title="Radio",One FM
-http://mediaprima.rastream.com/mediaprima-onefm.android
 #EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" radio="true" group-title="Radio",Suria
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=958936aa-b9a9-4978-d163-644509fa228f
 
+#EXTINF:-1 tvg-id="" tvg-name="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" radio="true" group-title="Radio",MY
+http://astro1.rastream.com/myfm?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" radio="true" group-title="Radio",MELODY
+http://astro1.rastream.com/melody?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="8FM" tvg-logo="https://assets.8fm.audio/2021/07/5rBU3f2U-logo_8fm_master.svg" radio="true" group-title="Radio",8FM
+http://mediaprima.rastream.com/mediaprima-onefm.android
+
+#EXTINF:-1 tvg-id="" tvg-name="MINNALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.jpg" radio="true" group-title="Radio",MINNALfm
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THR Raaga" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" radio="true" group-title="Radio",THR Raaga
+http://astro1.rastream.com/raaga?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="SYOK India Beat" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" radio="true" group-title="Radio",SYOK India Beat
+http://astro1.rastream.com/india?type=.flv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
