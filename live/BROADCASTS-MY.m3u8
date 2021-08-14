@@ -1,43 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/logo_high_tv1_new.jpg" tvg-url="" group-title="",RTM TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotv2.jpg" tvg-url="" group-title="",RTM TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM OKEY" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" tvg-url="" group-title="Variety",RTM Okey
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sukan RTM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="Sports",Sukan RTM
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Berita RTM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-url="" group-title="News",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV6" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" tvg-url="" group-title="Classic;Retro",RTM TV6
-https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Parlimen (Dewan Negara)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanNegara.jpg" tvg-url="" group-title="News",RTM Parlimen (Dewan Negara)
-https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanRakyat.jpg" tvg-url="" group-title="News",RTM Parlimen (Dewan Rakyat)
-https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-country="MY" tvg-language="Multiple" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" tvg-url="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png" tvg-url="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-country="MY" tvg-language="Chinese (Mandarin)" tvg-logo="" tvg-url="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" tvg-url="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-country="MY" tvg-language="Multiple" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" tvg-url="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="WOWShop" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://imgprod.wowshop.com.my/media/logo/default/wowshop-logo.png" tvg-url="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-name="TVIKIM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-url="" group-title="Islamic",TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
-#EXTINF:-1 tvg-id="" tvg-name="TVIkim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-url="" group-title="Islamic",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" tvg-url="" group-title="",
-
 #EXTINF:-1 tvg-id="" tvg-name="KLASIKfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg" radio="true" group-title="Radio",KLASIKfm
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASIONALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradionasionlfm.jpg" radio="true" group-title="Radio",NASIONALfm
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRAXXfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.jpg" radio="true" group-title="Radio",TRAXXfm
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.jpg" radio="true" group-title="Radio",AIfm
-https://aifmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch020/rtm-ch020-96000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MINNALfm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.jpg" radio="true" group-title="Radio",MINNALfm
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
 
